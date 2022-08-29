@@ -18,3 +18,9 @@ As I was writing the entries today, I realised my markdown formats were not rend
 Turns out, when I created the file I did not give it the *.md extension* (the markdown extension). Learning so much from these entries!
 
 
+## DAY 02
+### Python Practice
+Spent another 1 hour today doing Python exercises and Python Koan (continued from earlier class session). Didn't get through much. Hopefully can get a decent amount finished by Friday.
+
+### FIGMA
+Googled a couple of videos on FIGMA for web development and games. I think I might go this route instead of creating a python game. I feel this might benefit me more in the long run. While continuing with my Python practices.
