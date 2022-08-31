@@ -17,6 +17,7 @@ I have been struggling with finding a proper strategy. Time management has been 
 I would say **Start with the Learning Module**. Been trying to catch up on my reading for this course, and I have learned a lot! Which has helped me to complete this repo and the assignments for this course.
 
 ### What is Python?
+Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems. (Google search)
 
 ### Have you developed a habit of exploring?
 
