@@ -1,20 +1,20 @@
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-So.. I just realised we needed to do this repository from one of my classmates! I don't know if I have time to LOOK AWAY condiering this needs to be submitted TOMORROW! Am going to try my best to finish as much as possible.
+So.. I just realised we needed to do this repository from one of my classmates! I don't know if I have time to LOOK AWAY condsidering this needs to be submitted TOMORROW! Am going to try my best to finish as much as possible.
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 Contrary to most productivity practices where an individual takes on a task and works at it until completion, timeboxing is a time management technique that limits a task to a fixed (but realistic) timeline that may be minutes, hours, days, or even weeks long, depending on the task complexity (https://www.lucidchart.com/blog/what-is-timeboxing)
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
-For the Research Repository, I am fairly confident I can do it, so maybe a 4. I just did not read the assignment properly so I had been filling up my Reflective journal instead of both the Reflective Journal Repo and the Research Repo.
+For the Research Repository, I am fairly confident I can do it, so maybe a 4. I just did not read the assignment properly so I had been filling up my Reflective journal instead of both the **Reflective Journal Repo** and the **Research Repo**.
 
 ### What are of you proud of up to this point in the course?
 I am struggling, but I am enjoying the course. I was very proud of my progress with the Koans coding. I was stuck, and didn't know what to do. Managed to do some research online and figurd out how to fix the prolems and move on with the Koans. So that was really morale-boosting for me.
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
-I have been struggling with finding a proper strategy 
-
+I have been struggling with finding a proper strategy. Time management has been a huge issue for me. But I have been trying to make time for me at night as day time is filled with personal errands and responsibility. But i try to keep at least 2-3 hours at night to complete the appropriate readings, practice time and assignments.
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+I would say **Start with the Learning Module**. Been trying to catch up on my reading for this course, and I have learned a lot! Which has helped me to complete this repo and the assignments for this course.
 
 ### What is Python?
 
