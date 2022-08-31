@@ -1,5 +1,6 @@
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 So.. I just realised we needed to do this repository from one of my classmates! I don't know if I have time to LOOK AWAY condsidering this needs to be submitted TOMORROW! Am going to try my best to finish as much as possible.
+<! --- (three dashes)So verified this with Roman. We can merge this file into our Reflective journal
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 Contrary to most productivity practices where an individual takes on a task and works at it until completion, timeboxing is a time management technique that limits a task to a fixed (but realistic) timeline that may be minutes, hours, days, or even weeks long, depending on the task complexity (https://www.lucidchart.com/blog/what-is-timeboxing)
