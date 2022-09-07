@@ -24,3 +24,12 @@ Spent another 1 hour today doing Python exercises and Python Koan (continued fro
 
 ### FIGMA
 Googled a couple of videos on FIGMA for web development and games. I think I might go this route instead of creating a python game. I feel this might benefit me more in the long run. While continuing with my Python practices.
+
+
+## DAY 03
+### Python Turtle Practice
+I have decided to stick to Python for my final Software Project. I have decided to use Turtle as I have some experience using it. The idea is to generate simple grpahics usign Python Turtle for the exhibition. I have spent several hours the last few days looking at tutorials and refreshing my knowledge on Python Turtle.
+![Star constellation](https://user-images.githubusercontent.com/110507439/188980991-aed58840-5397-48c2-9dd7-75a0fe66bf88.jpg)
+
+
+Today I made a constellation of stars!!
