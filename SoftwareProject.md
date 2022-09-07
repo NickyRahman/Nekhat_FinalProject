@@ -29,7 +29,8 @@ Googled a couple of videos on FIGMA for web development and games. I think I mig
 ## DAY 03
 ### Python Turtle Practice
 I have decided to stick to Python for my final Software Project. I have decided to use Turtle as I have some experience using it. The idea is to generate simple grpahics usign Python Turtle for the exhibition. I have spent several hours the last few days looking at tutorials and refreshing my knowledge on Python Turtle.
-![Star constellation](https://user-images.githubusercontent.com/110507439/188980991-aed58840-5397-48c2-9dd7-75a0fe66bf88.jpg)
+![Star Constellation](https://user-images.githubusercontent.com/110507439/188983019-a594f9bc-c286-4306-8cee-d8f8b2256925.png)
+
 
 
 Today I made a constellation of stars!!
