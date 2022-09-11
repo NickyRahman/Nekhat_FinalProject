@@ -34,3 +34,9 @@ I have decided to stick to Python for my final Software Project. I have decided 
 
 
 Today I made a constellation of stars!!
+
+
+## DAY 04
+### Python Coding Practice
+I have been spending some time doing basic Python coding Python Ocidng for Data Science. These set of tutorials have been very helpful in breaking down the 'language', making it easier for me to read coding lines, especially the ones in our Koans exercises. ALthough I have made some progress with the Koans, I have found a loop that has been helping me figure out the answers, I still don't understand the codes. These Data science python coding exercises have helped erase some of those confusions.
+
