@@ -49,6 +49,10 @@ Brainstorming is about **capturing all the keywords that is related to or might 
 ![brainstorming](https://user-images.githubusercontent.com/110507439/189571601-bedc7d9e-39ab-4802-b26f-aefb8bcfceec.jpg)
 
 
+A Brainstorm is a diagram used to map associated ideas, words, images and concepts together. Brainstorms are also a tool and method for idea generation, finding associations, classifying ideas, organising information, visualising structure and a general aid to studying (Google).
+
 A flowchart is a visual diagram that demonstrates the **FLOW of your program/app/game, etc**. 
 ![miro-flowchart-template](https://user-images.githubusercontent.com/110507439/189572057-d1b6730a-07fb-4dfa-8dcd-127f2a96a943.png)
+
+A flowchart is a diagram that illustrates the steps, sequences, and decisions of a process or workflow. While there are many different types of flowcharts, a basic flowchart is the simplest form of a process map. It’s a powerful tool that can be used in multiple fields for planning, visualizing, documenting, and improving processes (https://asana.com/resources/what-is-a-flowchart).
 
