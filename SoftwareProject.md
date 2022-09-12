@@ -56,3 +56,6 @@ A flowchart is a visual diagram that demonstrates the **FLOW of your program/app
 
 A flowchart is a diagram that illustrates the steps, sequences, and decisions of a process or workflow. While there are many different types of flowcharts, a basic flowchart is the simplest form of a process map. It’s a powerful tool that can be used in multiple fields for planning, visualizing, documenting, and improving processes (https://asana.com/resources/what-is-a-flowchart).
 
+Continued my Python grpahics tutorial. Made a Spiral with rainbow hue!
+![SpiralHue](https://user-images.githubusercontent.com/110507439/189631684-36ce51ba-9062-4a45-852f-cd3d54e70047.png)
+
