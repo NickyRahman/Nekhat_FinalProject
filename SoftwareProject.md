@@ -40,3 +40,13 @@ Today I made a constellation of stars!!
 ### Python Coding Practice
 I have been spending some time doing basic Python coding Python Ocidng for Data Science. These set of tutorials have been very helpful in breaking down the 'language', making it easier for me to read coding lines, especially the ones in our Koans exercises. ALthough I have made some progress with the Koans, I have found a loop that has been helping me figure out the answers, I still don't understand the codes. These Data science python coding exercises have helped erase some of those confusions.
 
+
+## DAY 05
+### Brainstorming vsFlowchart
+A lot to cover today. Started the day with more coding practice. We also discussed what brainstorming is and how it is different from a flowchart.
+Brainstorming is about capturing all the keywords that is related to or might be used in your program/app/game, etc. You jot down these words and try to find connections between them, and then visualise them. 
+![brainstorming](https://user-images.githubusercontent.com/110507439/189571601-bedc7d9e-39ab-4802-b26f-aefb8bcfceec.jpg)
+
+
+
+
