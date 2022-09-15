@@ -18,7 +18,8 @@ IF petName = 'DOG'
 IF petName NOT = DOG AND petName NOT = CAT
   
   Print 'Input must be CAT or DOG'
-    
+##
+
     
 # Python Code - Cat and Dog Program
 ## Code Example 1
