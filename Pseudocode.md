@@ -1,4 +1,4 @@
-#Program Brief
+## Program Brief
 
 Find your average marks from all your FIVE assignments
 
