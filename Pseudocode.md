@@ -41,8 +41,9 @@ def callPET():
     
     callPET()
 
-#*press Ctrl + forward slash(/) to add or remove comment symbol (#)
-#*press Ctrl+C to quit previous program
+*press Ctrl + forward slash(/) to add or remove comment symbol (#)
+
+*press Ctrl+C to quit previous program
 ##
 
 ## Code Example 2
