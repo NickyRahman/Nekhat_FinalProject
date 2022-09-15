@@ -14,8 +14,7 @@ IF petName = 'DOG'
   
   
   IF petName NOT = DOG AND petName NOT = CAT
-  
-    Print 'You need to type in uppercase CAT or DOG'
+      Print 'Input must be CAT or DOG'
     
     
 # Python Code - Cat and Dog Program
