@@ -4,6 +4,7 @@
 Ask somebody to type in either CAT or DOG
 
 Define function as callPET
+
 Variable name = petName
 
 IF petName = 'CAT'
@@ -16,7 +17,7 @@ IF petName = 'DOG'
   
 IF petName NOT = DOG AND petName NOT = CAT
   
-    Print 'Input must be CAT or DOG'
+  Print 'Input must be CAT or DOG'
     
     
 # Python Code - Cat and Dog Program
