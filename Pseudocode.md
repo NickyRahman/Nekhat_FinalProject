@@ -4,13 +4,19 @@
 Ask somebody to type in either CAT or DOG
 
 IF petName = 'CAT'
+
   Print 'Meow'
+  
 
 IF petName = 'DOG'
+
   Print 'Woof, woof'
   
+  
   IF petName NOT = DOG AND petName NOT = CAT
+  
     Print 'You need to type in uppercase CAT or DOG'
+    
     
 # Python Code - Cat and Dog Program
 ## Code Example 1
