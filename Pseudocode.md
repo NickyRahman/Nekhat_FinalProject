@@ -24,14 +24,21 @@ IF petName NOT = DOG AND petName NOT = CAT
 # Python Code - Cat and Dog Program
 ## Code Example 1
 def callPET():
+
   petName = input('Type in CAT or DOG : ')
   
   if petName == 'CAT':
+  
     print('Meow')
+    
   if petName == 'DOG':
+  
     print('Woof, woof')
+    
   if petName != 'CAT' or petName!= 'DOG':
+  
     print ('Input must be CAT or DOG')
+    
     callPET()
 
 *press Ctrl + forward slash(/) to add or remove comment symbol (#)
